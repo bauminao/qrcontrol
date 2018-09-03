@@ -18,3 +18,5 @@ http://flask-sqlalchemy.pocoo.org/2.3/
 >>> u.set_password('cat')
 >>> db.session.add(u)
 >>> db.session.commit()
+
+## And now something completely differnt...
